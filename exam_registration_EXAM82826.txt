@@ -1,0 +1,14 @@
+===== Exam Registration Receipt =====
+Roll No       : EXAM82826
+Full Name     : Raj Kumar
+Email         : rajkumar951ce@gmail.com
+Phone         : 8102772401
+DOB           : 29112003
+Gender        : Male
+Course        : B.Tech
+Exam Center   : Bangalore
+Mode of Exam  : Offline
+ID Proof Type : Aadhar
+ID Number     : 549922951915
+Address       : Kanakpura road ,Jakkasandra,562112
+====================================
